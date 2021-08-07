@@ -25,5 +25,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Santagain&layout=compact&theme=nord" />
 </a>
 
+![Snake animation](https://github.com/Santagain/Santagain/blob/output/github-contribution-grid-snake.svg)
 
 [website]: https://#
