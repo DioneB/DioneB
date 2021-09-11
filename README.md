@@ -29,7 +29,7 @@
 
 <p align="center">
   
-  <img width="100" height="33" src="https://komarev.com/ghpvc/?username=Santagain&color=green&style=flat-square&label=Views">
+  <img width="100" height="25" src="https://komarev.com/ghpvc/?username=Santagain&color=green&style=flat-square&label=Views">
   
 </p>
 
