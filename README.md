@@ -1,4 +1,4 @@
-## Languages and Tools/Platforms ![](https://komarev.com/ghpvc/?username=Santagain&color=green&style=flat-square&label=Views)
+## Languages and Tools/Platforms 
 ----
 
 [![](https://img.shields.io/badge/Lua-grey.svg?style=for-the-badge&logo=lua)](#)
@@ -26,5 +26,12 @@
 </a>
 
 ![Snake animation](https://github.com/Santagain/Santagain/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  
+  <img width="460" height="300" src="https://komarev.com/ghpvc/?username=Santagain&color=green&style=flat-square&label=Views">
+  
+</p>
+
 
 [website]: https://#
