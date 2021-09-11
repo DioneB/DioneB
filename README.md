@@ -27,6 +27,7 @@
 
 ![Snake animation](https://github.com/Santagain/Santagain/blob/output/github-contribution-grid-snake.svg)
 
-![](https://komarev.com/ghpvc/?username=Santagain&color=green&style=flat-square)
-
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=Santagain&color=green&style=flat-square)
+</p>
 [website]: https://#
