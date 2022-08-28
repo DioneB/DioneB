@@ -20,16 +20,16 @@
 <br />
 
 ----
-<a href="https://github.com/Santagain">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Santagain&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Santagain&layout=compact&theme=nord" />
+<a href="https://github.com/DioneB">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DioneB&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DioneB&layout=compact&theme=nord" />
 </a>
 
-![Snake animation](https://github.com/Santagain/Santagain/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DioneB/DioneB/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   
-  <img width="75" height="20" src="https://komarev.com/ghpvc/?username=Santagain&color=blue&style=flat-square&label=Views">
+  <img width="75" height="20" src="https://komarev.com/ghpvc/?username=DioneB&color=blue&style=flat-square&label=Views">
   
 </p>
 
