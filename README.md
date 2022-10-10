@@ -24,7 +24,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DioneB&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DioneB&layout=compact&theme=nord" />
 </a>
-
+<div align="center" width="100">
+  <img src="https://github-profile-trophy.vercel.app/?username=DioneB&column=8&theme=nord&no-frame=true&margin-w=3&margin-h=5"/>
+</div>
+----
 ![Snake animation](https://github.com/DioneB/DioneB/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
