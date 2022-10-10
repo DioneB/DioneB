@@ -27,7 +27,9 @@
 <div align="center" width="100">
   <img src="https://github-profile-trophy.vercel.app/?username=DioneB&column=8&theme=nord&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
+
 ![Snake animation](https://github.com/DioneB/DioneB/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img width="75" height="20" src="https://komarev.com/ghpvc/?username=DioneB&color=blue&style=flat-square&label=Views">
 </p>
