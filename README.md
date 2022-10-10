@@ -1,6 +1,5 @@
 ## Languages and Tools/Platforms 
 ----
-<div align="center" width="100">
 [![](https://img.shields.io/badge/Lua-grey.svg?style=for-the-badge&logo=lua)](#)
 [![](https://img.shields.io/badge/Javascript-grey.svg?style=for-the-badge&logo=javascript)](#)
 [![](https://img.shields.io/badge/Typescript-grey.svg?style=for-the-badge&logo=typescript)](#)
@@ -18,7 +17,6 @@
 [![](https://img.shields.io/badge/Github-grey.svg?style=for-the-badge&logo=Github)](#)
 [![](https://img.shields.io/badge/VSCode-grey.svg?style=for-the-badge&logo=VisualStudioCode)](#)
 <br />
-</div>
 ----
 <div align="center" width="100">
 <a href="https://github.com/DioneB">
