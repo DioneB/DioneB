@@ -20,8 +20,8 @@
 ----
 <div align="center" width="100">
 <a href="https://github.com/DioneB">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DioneB&show_icons=true&theme=nord&include_all_commits=true&count_private=true&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DioneB&layout=compact&theme=nord&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DioneB&show_icons=true&theme=nord&include_all_commits=true&count_private=true&bg_color=00000000&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DioneB&layout=compact&theme=nord&bg_color=00000000&locale=pt-br" />
 </a>
 </div>
 <div align="center" width="100">
