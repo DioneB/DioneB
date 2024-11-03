@@ -1,5 +1,6 @@
 <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DioneB&theme=city_lights)
+    <img width="75" height="20" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DioneB&theme=city_lights">
+  ![]()
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DioneB&theme=city_lights)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DioneB&theme=city_lights&hide=Lua)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DioneB&theme=city_lights)
