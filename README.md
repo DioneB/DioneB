@@ -3,7 +3,7 @@
     <img width="275" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DioneB&theme=city_lights">
     <img width="275" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DioneB&theme=city_lights&utcOffset=-3">
     <img width="275" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DioneB&theme=city_lights">
-    <img width="525" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DioneB&theme=city_lights">
+    <img width="530" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DioneB&theme=city_lights">
 </p>
 <div align="center" width="100">
   <img src="https://github-profile-trophy.vercel.app/?username=DioneB&column=8&theme=nord&no-frame=true&margin-w=6&margin-h=10"/>
