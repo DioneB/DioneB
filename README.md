@@ -20,8 +20,11 @@
 ----
 <div align="center" width="100">
 <a href="https://github.com/DioneB">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DioneB&show_icons=true&theme=nord&include_all_commits=true&count_private=true&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DioneB&layout=compact&theme=nord&bg_color=00000000" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DioneB&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DioneB&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DioneB&theme=prussian&hide=Lua)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DioneB&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DioneB&theme=prussian&utcOffset=8)
 </a>
 </div>
 <div align="center" width="100">
