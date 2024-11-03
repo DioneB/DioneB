@@ -1,6 +1,6 @@
 <p align="center">
     <img width="250" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DioneB&theme=city_lights">
-    <img width="250" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DioneB&theme=city_lights&hide=Lua">
+    <img width="250" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DioneB&theme=city_lights">
     <img width="250" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DioneB&theme=city_lights">
     <img width="250" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DioneB&theme=city_lights&utcOffset=-3">
     <img width="750" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DioneB&theme=city_lights">
