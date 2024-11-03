@@ -1,8 +1,8 @@
 <p align="center" width="100">
-    <img width="275" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DioneB&theme=city_lights">
-    <img width="275" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DioneB&theme=city_lights">
-    <img width="275" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DioneB&theme=city_lights&utcOffset=-3">
-    <img width="250" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DioneB&theme=city_lights">
+    <img width="300" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DioneB&theme=city_lights">
+    <img width="300" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DioneB&theme=city_lights">
+    <img width="300" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DioneB&theme=city_lights&utcOffset=-3">
+    <img width="300" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DioneB&theme=city_lights">
     <img width="500" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DioneB&theme=city_lights">
 </p>
 <div align="center" width="100">
